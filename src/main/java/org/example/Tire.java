@@ -1,7 +1,9 @@
 package org.example;
 
 
-public class Tire extends CarPart{
+import java.io.Serializable;
+
+public class Tire extends CarPart {
 
     private int size;
     private int width;

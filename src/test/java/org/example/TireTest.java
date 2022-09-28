@@ -21,6 +21,4 @@ public class TireTest {
         log.trace("Exhausts: {} exhaust1: {}", exhaust.toString(), exhaust1.toString());
     }
 
-
-
 }
