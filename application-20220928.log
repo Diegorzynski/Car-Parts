@@ -1,0 +1,10 @@
+2022-09-28 09:57:50.992 [main] TRACE org.example.TireTest - org.example.Tire@2dafaa43
+2022-09-28 09:58:57.006 [main] TRACE org.example.TireTest - org.example.Tire@5322941a
+2022-09-28 10:00:04.621 [main] TRACE org.example.TireTest - Tire{size=95, width=10}
+2022-09-28 10:00:36.260 [main] TRACE org.example.TireTest - CarPart{id=134d03ea-b4bf-43cc-863c-3894668fcbcc, manufacturerName='Ford', model='Astra', series='GH'}size=95, width=10}
+2022-09-28 10:04:21.960 [main] TRACE org.example.TireTest - CarPart{id=d335e29d-7fd8-4bd6-8a0f-2fc4f2ad8d3e, manufacturerName='VolksWagen', model='GTS35', series='A'}Exhaust{compliesWithEMS=true}
+2022-09-28 10:06:27.323 [main] TRACE org.example.TireTest - Tires CarPart{id=31977218-3c71-44be-93be-6aab6def54cd, manufacturerName='Ford', model='Astra', series='GH'}size=95, width=10} CarPart{id=9c5fd38e-2f35-40ca-8fe2-f56553462a64, manufacturerName='Volkswagen', model='B15', series='J'}size=200, width=15}
+2022-09-28 10:07:41.420 [main] TRACE org.example.TireTest - Tires id=7aa652ad-2bae-4239-b880-550a06f3b540, manufacturerName='Ford', model='Astra', series='GH'}size=95, width=10} id=cca12b60-5684-4ce4-9921-3c6ee4eaedfe, manufacturerName='Volkswagen', model='B15', series='J'}size=200, width=15}
+2022-09-28 10:09:36.440 [main] TRACE org.example.TireTest - Exhausts: id=1e1e449d-ae50-4434-9a89-6348f4af2d4d, manufacturerName='VolksWagen', model='GTS35', series='A'}Exhaust{compliesWithEMS=true} id=0dcdfbe1-ee3b-4841-8218-6dc11ed23c8b, manufacturerName='Chevrolet', model='SW', series='C'}Exhaust{compliesWithEMS=false}
+2022-09-28 10:10:28.414 [main] TRACE org.example.TireTest - Tires id=d32e3c95-7f81-4aed-b482-7664e2c65776, manufacturerName='Ford', model='Astra', series='GH'}size=95, width=10} id=8ed11477-81e8-461c-955a-ec2e4e64f6ba, manufacturerName='Volkswagen', model='B15', series='J'}size=200, width=15}
+2022-09-28 10:10:28.427 [main] TRACE org.example.TireTest - Exhausts: id=c9665fe5-7941-4ac5-814d-f2b5b3bd4459, manufacturerName='VolksWagen', model='GTS35', series='A'}compliesWithEMS=true} id=01ac7e58-1d81-46ab-b621-1f83f5174d6a, manufacturerName='Chevrolet', model='SW', series='C'}compliesWithEMS=false}
