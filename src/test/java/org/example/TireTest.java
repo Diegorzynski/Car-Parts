@@ -11,14 +11,14 @@ public class TireTest {
     public void tireTest(){
         Tire tire = new Tire("Ford","Astra","GH", 95,10);
         Tire tire1 = new Tire("Volkswagen","B15","J",200,15);
-        log.trace("Tires {} {}", tire.toString(), tire1.toString());
+        log.trace("Tires {} tire1: {}", tire.toString(), tire1.toString());
     }
 
     @Test
     public void exhaustTest(){
         Exhaust exhaust = new Exhaust("VolksWagen","GTS35","A",true);
         Exhaust exhaust1 = new Exhaust("Chevrolet","SW","C",false);
-        log.trace("Exhausts: {} {}", exhaust.toString(), exhaust1.toString());
+        log.trace("Exhausts: {} exhaust1: {}", exhaust.toString(), exhaust1.toString());
     }
 
 
